@@ -1,0 +1,11 @@
+{
+    "installed": {
+        "client_id": "831431039711-nb2qkgno96p201kg2hla71unif29doar.apps.googleusercontent.com",
+        "project_id": "love-sandwiches-377108",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": ["http://localhost"]
+    }
+}
